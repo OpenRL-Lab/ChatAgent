@@ -25,6 +25,9 @@ from setuptools import setup
 def get_install_requires() -> list:
     return [
         "setuptools>=67.0",
+        "wheel",
+        "build",
+        "twine",
         "fastapi",
         "uvicorn",
         "pydantic>=2.5",
