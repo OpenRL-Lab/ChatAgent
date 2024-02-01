@@ -1,8 +1,14 @@
 # ChatAgent
 
+[![PyPI](https://img.shields.io/pypi/v/ChatAgent-py)](https://pypi.org/project/ChatAgent-py/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ChatAgent-py)
+[![Hits-of-Code](https://hitsofcode.com/github/OpenRL-Lab/ChatAgent?branch=main)](https://hitsofcode.com/github/OpenRL-Lab/ChatAgent/view?branch=main)
+
+[![Documentation Status](https://readthedocs.org/projects/chatagent/badge/?version=latest)](https://chatagent.readthedocs.io/en/latest/?badge=latest)
+
 [中文说明](./README_CN.md)
 
-A Python-based large language model agent framework. 
+A Python-based agent framework for large language models. 
 The online agents deployed through ChatAgent have provided over a million stable API calls for the internal OpenRL team.
 
 ## Features
@@ -18,7 +24,7 @@ The online agents deployed through ChatAgent have provided over a million stable
 ## Installation
 
 ```bash
-pip install ChatAgent
+pip install ChatAgent-py
 ```
 
 ## Usage

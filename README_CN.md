@@ -1,5 +1,12 @@
 # ChatAgent
 
+[![PyPI](https://img.shields.io/pypi/v/ChatAgent-py)](https://pypi.org/project/ChatAgent-py/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ChatAgent-py)
+[![Hits-of-Code](https://hitsofcode.com/github/OpenRL-Lab/ChatAgent?branch=main)](https://hitsofcode.com/github/OpenRL-Lab/ChatAgent/view?branch=main)
+
+[![Documentation Status](https://readthedocs.org/projects/chatagent/badge/?version=latest)](https://chatagent.readthedocs.io/en/latest/?badge=latest)
+
+
 [English](./README.md)
 
 基于Python的大语言模型智能体框架。通过ChatAgent部署的在线智能体已为OpenRL团队内部提供了超过百万次稳定的API调用。
@@ -17,7 +24,7 @@
 ## Installation
 
 ```bash
-pip install ChatAgent
+pip install ChatAgent-py
 ```
 
 ## Usage

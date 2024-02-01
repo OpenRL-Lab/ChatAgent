@@ -49,7 +49,7 @@ def get_version() -> str:
 
 
 setup(
-    name="ChatAgent",
+    name="ChatAgent-py",
     version=get_version(),
     description="Pure Python Based Agents for Large Language Models",
     long_description=open("README.md", encoding="utf8").read(),
