@@ -30,7 +30,7 @@ def get_install_requires() -> list:
         "twine",
         "fastapi",
         "uvicorn",
-        "pydantic>=2.5",
+        "pydantic>=2.6",
         "pydantic-settings>=2.1",
         "openai>=1",
         "gymnasium",
