@@ -60,6 +60,11 @@ We provide an example in [examples/multiagent_ensemble](./examples/multiagent_en
 
 We provide an example in [examples/rag](./examples/rag) of agent Q&A based on RAG query results.
 
+## Projects Using ChatAgent
+
+We have listed research projects that use ChatAgent in the [ChatAgent Project](./Project.md).
+If you are using ChatAgent in your research project, you are also welcome to join this list.
+
 ## Citation
 
 If you use ChatAgent, please cite us:

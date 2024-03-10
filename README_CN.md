@@ -59,6 +59,11 @@ serve.run(host="0.0.0.0", port=6367)
 
 我们在[examples/rag](./examples/rag)中提供了一个基于RAG查询结果进行智能体问答的示例，可以直接运行查看效果。
 
+## 使用ChatAgent的研究项目
+
+我们在 [ChatAgent Project](Project.md) 中列举了使用ChatAgent的研究项目。
+如果你在研究项目中使用了ChatAgent，也欢迎加入该列表。
+
 ## Citation
 
 如果您使用了ChatAgent，请引用我们：
