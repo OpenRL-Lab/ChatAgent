@@ -16,3 +16,4 @@ Description: AutoSAT is a novel framework for automatically optimizing heuristic
 
 - Paper: [AutoSAT: Automatically Optimize SAT Solvers via Large Language Models](https://arxiv.org/abs/2402.10705)
 - Authors: Yiwen Sun, Xianyin Zhang, Shiyu Huang, Shaowei Cai, Bing-Zhen Zhang, Ke Wei
+- Code: https://github.com/YiwenAI/AutoSAT
